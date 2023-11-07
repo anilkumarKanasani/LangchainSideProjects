@@ -4,9 +4,14 @@ huggingface_hub
 
 
 tiktoken
+pypdf
+
+
 chromadb
-sentence_transformers
+pinecone-client
 faiss-cpu
+
+sentence_transformers
 
 environs
 
