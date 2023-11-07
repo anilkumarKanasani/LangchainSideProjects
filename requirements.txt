@@ -1,8 +1,17 @@
 langchain
 openai
 huggingface_hub
+
+
 tiktoken
+chromadb
+sentence_transformers
 faiss-cpu
+
 environs
+
+
+
+
 streamlit
 streamlit_chat
